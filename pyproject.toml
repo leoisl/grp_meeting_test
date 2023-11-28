@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "grp_meeting_test"
-version = "0.1.0"
+version = "1.0.0"
 description = "Group meeting test"
 authors = ["Leandro Lima <leandro@ebi.ac.uk>"]
 license = "MIT"

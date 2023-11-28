@@ -1,5 +1,21 @@
 # Changelog
 
+## [1.0.0](https://github.com/leoisl/grp_meeting_test/compare/v0.1.0...v1.0.0) (2023-11-28)
+
+
+### ⚠ BREAKING CHANGES
+
+* adding new param "c" to main command
+
+### Continuous Integration
+
+* automatic release to pypi ([721dcdf](https://github.com/leoisl/grp_meeting_test/commit/721dcdf272e6508e74e779c800af908766a20cff))
+
+
+### Features
+
+* adding new param "c" to main command ([eaa5c93](https://github.com/leoisl/grp_meeting_test/commit/eaa5c93df4cc6541db9fc3f8999d8469428b8251))
+
 ## 0.1.0 (2023-11-28)
 
 
