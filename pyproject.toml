@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "grp_meeting_test"
+version = "0.0.1"
+description = "Group meeting test"
+authors = ["Leandro Lima <leandro@ebi.ac.uk>"]
+license = "MIT"
+readme = "README.md"
+homepage = "https://github.com/leoisl/grp_meeting_test"
+repository = "https://github.com/leoisl/grp_meeting_test"
+packages = [{include = "grp_meeting_test"}]
+keywords = ["Group", "Meetig", "Test"]
+
+[tool.poetry.scripts]
+grp_meeting_test = 'grp_meeting_test.add:main'
+
+[tool.poetry.dependencies]
+python = ">=3.9,<3.13"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
