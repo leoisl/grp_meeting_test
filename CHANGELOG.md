@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.1](https://github.com/leoisl/grp_meeting_test/compare/v0.1.0...v0.1.1) (2023-11-28)
+
+
+### Continuous Integration
+
+* automatic release to pypi ([721dcdf](https://github.com/leoisl/grp_meeting_test/commit/721dcdf272e6508e74e779c800af908766a20cff))
+
 ## 0.1.0 (2023-11-28)
 
 
